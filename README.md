@@ -2,7 +2,6 @@
 
 🎓 **BSc in Statistics | Aspiring Finance Professional | Data Enthusiast**
 
----
 
 ## 🧠 About Me
 
@@ -13,7 +12,6 @@ I'm a passionate and curious learner with a strong academic foundation in **Stat
 - 🏫 Alumnus of **Jawahar Navodaya Vidyalaya**, Barmer (Rajasthan)
 - 🧾 CFA syllabus learner | NISM (Research Analyst) certified
 
----
 
 ## 💼 Career Aspiration
 
@@ -26,7 +24,6 @@ I aspire to build a career at the intersection of **Finance**, **Data Analysis**
 
 In the long term, I envision contributing to financial inclusion and literacy while becoming a well-rounded finance professional with a deep understanding of markets and data.
 
----
 
 ## 🛠️ Skills & Tools
 
@@ -35,7 +32,6 @@ In the long term, I envision contributing to financial inclusion and literacy wh
 - **Stats & Analytics**: Regression, Clustering, Forecasting, EDA  
 - **Others**: Git, LaTeX, Tableau (beginner), Mac Terminal
 
----
 
 ## 📚 Projects & Learning
 
@@ -46,7 +42,6 @@ In the long term, I envision contributing to financial inclusion and literacy wh
   - Advanced Financial Analytics
   - Japanese Language 🇯🇵
 
----
 
 ## 🧩 Interests & Hobbies
 
@@ -54,7 +49,7 @@ In the long term, I envision contributing to financial inclusion and literacy wh
 - Exploring topics in **International Relations**, **Indian Economy**, and **Climate Policy**  
 - Language Enthusiast: Fluent in Hindi, English, Marwari, Marathi | Learning Japanese
 
----
+
 
 ## 🗣️ Let's Connect!
 
@@ -62,7 +57,5 @@ In the long term, I envision contributing to financial inclusion and literacy wh
 - 💼 LinkedIn: [Arun Kumar](https://linkedin.com/in/arunkumar2699) 
 
 > _"Data tells stories. I translate them into decisions."_
-
----
 
 ⭐ _Feel free to fork or connect for collaborations!_
