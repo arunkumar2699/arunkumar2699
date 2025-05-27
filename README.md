@@ -58,7 +58,7 @@ In the long term, I envision contributing to financial inclusion and literacy wh
 
 ## 🗣️ Let's Connect!
 
-- 📧 Email: arunkumar@email.com  
+- 📧 Email: arun.kumar2699@outlook.com  
 - 💼 LinkedIn: [Arun Kumar](https://linkedin.com/in/arunkumar2699) 
 
 > _"Data tells stories. I translate them into decisions."_
